@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
-Hello!! I am Mingyun. Over the past period, I have become increasingly obsessed with open source and backward compatibility. I have also become fixated on finding a balance between my ethical obligations to all users of the projects I interact with and the very real issues of time management, burnout, and work-life balance.
+Hello!! My name's Kang. Over the past period, I have become increasingly obsessed with open source and backward compatibility. I have also become fixated on finding a balance between my ethical obligations to all users of the projects I interact with and the very real issues of time management, burnout, and work-life balance.
 
 I started my career as a developer in 2017, and over the years, I have been actively involved in blogging and participating in the Korean development community. Gradually, I have created a significant number of projects. I always strive to maintain these projects with the utmost respect for the users.
 And, my most recent favorite motto is "Lead, follow, or get out of the way."
