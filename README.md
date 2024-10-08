@@ -13,11 +13,11 @@ And, my most recent favorite motto is "Lead, follow, or get out of the way."
  <div align="center">
 <table><tr><td valign="top" width="50%">
 <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m1n67un&show_icons=true&theme=radical" alt="m1n67un's GitHub stats" style="float: left;" /> -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m1n67un&show_icons=true&theme=radical" alt="m1n67un's GitHub stats" style="float: left;" />
+<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m1n67un&show_icons=true&theme=radical" alt="m1n67un's GitHub stats" style="float: left;" />
   </td><td valign="top" width="50%">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m1n67un&layout=compact&theme=radical" alt="m1n67un's GitHub stats" style="float: right;" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m1n67un&layout=compact&theme=radical" alt="m1n67un's GitHub stats" style="float: right;" /> -->
 </td></tr></table>  
-<a href="https://opgc.me/#/users/m1n67un" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/m1n67un/tag/?theme=basic" /></a>
+<!-- <a href="https://opgc.me/#/users/m1n67un" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/m1n67un/tag/?theme=basic" /></a> -->
 <div align="left">
 
 ## ⚙️ Skill (스킬)
